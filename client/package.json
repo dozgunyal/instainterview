@@ -6,7 +6,7 @@
     "fast-xml-parser": "^3.12.17",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "0.9.5",
+    "react-scripts": "5.0.1",
     "react-speech-recognition": "^2.0.4",
     "xml-js": "^1.6.11"
   },
